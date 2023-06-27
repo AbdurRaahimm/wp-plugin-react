@@ -35,7 +35,11 @@ node -v
 ```shell
 mkdir wp-plugin-react
 ```
-### Step 2: Then Initialize 
+Then - 
+```shell
+cd wp-plugin-react
+```
+### Step 2:  Initialize 
 ```shell
 npm init
 ```
