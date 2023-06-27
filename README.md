@@ -6,7 +6,7 @@ This is a simple plugin that uses React to render a component in the admin dashb
 
 1. Clone the repo into your plugins folder
 ```shell
-git clone 
+git clone https://github.com/AbdurRaahimm/wp-plugin-react.git
 ```
 2. Run `npm install` to install the dependencies
 ```shell
