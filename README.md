@@ -23,6 +23,11 @@ npm i
 
 4. Activate the plugin in the Wordpress admin dashboard
 
+5. Run `npm start` to start the development server and after Edit Components JSX
+```shell
+npm start
+```
+
 _________________________________________________________
 
 # If you want to create by own , make sure in your pc installed nodeJs and check version 

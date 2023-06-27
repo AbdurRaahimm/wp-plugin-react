@@ -21,7 +21,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const App = () => {
-  return (0,_wordpress_element__WEBPACK_IMPORTED_MODULE_0__.createElement)("div", null, (0,_wordpress_element__WEBPACK_IMPORTED_MODULE_0__.createElement)("h1", null, "React Widget"), (0,_wordpress_element__WEBPACK_IMPORTED_MODULE_0__.createElement)(_components_Charts__WEBPACK_IMPORTED_MODULE_2__["default"], null));
+  return (0,_wordpress_element__WEBPACK_IMPORTED_MODULE_0__.createElement)("div", null, (0,_wordpress_element__WEBPACK_IMPORTED_MODULE_0__.createElement)("h1", null, "React Widget "), (0,_wordpress_element__WEBPACK_IMPORTED_MODULE_0__.createElement)(_components_Charts__WEBPACK_IMPORTED_MODULE_2__["default"], null));
 };
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (App);
 
