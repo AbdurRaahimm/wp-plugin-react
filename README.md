@@ -8,18 +8,19 @@ This is a simple plugin that uses React to render a component in the admin dashb
 ```shell
 git clone https://github.com/AbdurRaahimm/wp-plugin-react.git
 ```
-2. Run `npm install` to install the dependencies
+2. Go to `wp-plugin-react` folder -
+```shell
+cd wp-plugin-react
+```
+3. Run `npm install` to install the dependencies
 ```shell
 npm install
 ```
-3. Start the Project
+OR -
 ```shell
-npm start
+npm i
 ```
-4. Run `npm run build ` to build the project
-```shell
-npm run build
-```
+
 4. Activate the plugin in the Wordpress admin dashboard
 
 _________________________________________________________
@@ -80,7 +81,7 @@ module.exports = {
  * Author URI:       https://www.facebook.com/Rahim72446
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       jobplace
+ * Text Domain:       wpreact
  */
 
 //  Dashboard widget
@@ -137,6 +138,11 @@ export default App;
 ### Step 10:  Now run - 
 ```shell
 npm start
+```
+
+### Step 11: Run `npm run build ` to build the project
+```shell
+npm run build
 ```
 
 
